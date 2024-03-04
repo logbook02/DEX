@@ -1,3 +1,9 @@
-블로그
-https://github.com/ShinjungOh/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20-%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%2C%20%ED%8A%B8%EB%9E%98%ED%94%BD%2C%20%EC%B2%98%EB%A6%AC%EB%9F%89%2C%20%EB%8C%80%EC%97%AD%ED%8F%AD%2C%20RTT.md
+# 네트워크 기초
+
+## 네트워크
+
+노드(node)와 링크(link)가 서로 연결되어 있고 리소스를 공유하는 집합
+
+- 노드 : 서버, 라우터, 스위치 등 네트워크 장치(스마트폰 등) 
+- 링크(엣지) : 유선 또는 무선과 같은 연결매체 (Wi-Fi, LAN)
 
