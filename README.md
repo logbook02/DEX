@@ -3,7 +3,8 @@
 ## 블로그
 
 🖋 개발하며 얻은 인사이트를 기록합니다.  
-[브로그]   (https://6649.tistory.com/category/%ED%98%84%EC%97%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9E%90%EA%B0%80%20%EC%95%8C%EB%A0%A4%EC%A4%80%20%20%EA%B3%A0%EA%B8%89%EC%9E%90%EB%A3%8C)
+[블로그 - LAN, MAN, WAN](https://6649.tistory.com/)  
 
+[네트워크의 분류 - LAN, MAN, WAN](https://github.com/ShinjungOh/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EB%B6%84%EB%A5%98%20-%20LAN%2C%20MAN%2C%20WAN.md)  
 
 ## 1. 개발자 기초
